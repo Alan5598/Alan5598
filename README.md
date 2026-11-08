@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Alan5598/Alan5598/main/assets/matrix-rain.svg" width="100%" alt="Nziza Alain - full-stack developer, Rwanda" />
+<img src="https://raw.githubusercontent.com/Alan5598/Alan5598/main/assets/matrix-banner.svg" width="100%" alt="Nziza Alain - full-stack developer, Rwanda" />
 
 <a href="https://github.com/Alan5598">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=%3E+build.fullstack%28%29;%3E+learn.security%28%29;%3E+design.systems%28%29;%3E+ship.it%28%29" alt="Typing animation" />
